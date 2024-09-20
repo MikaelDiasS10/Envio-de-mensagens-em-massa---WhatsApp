@@ -1,4 +1,4 @@
-# automatizar envio de mensagens p 20k pessoas
+# automatizar envio de mensagens p 20k pessoass
 from openpyxl import load_workbook
 from urllib.parse import quote
 import webbrowser
